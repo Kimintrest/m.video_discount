@@ -1,0 +1,2407 @@
+[
+    {
+        "productId": "400200248",
+        "name": "Планшет Xiaomi Redmi Pad SE 4/128GB Gray (49283)",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-4-128gb-gray-49283",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400200248",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad SE 4/128GB Gray (49283)",
+        "rating": {
+            "star": 4.943820224719101,
+            "count": 89,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400200248b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400200248.jpg",
+            "Pdb/400200248b.jpg",
+            "Pdb/400200248b1.jpg",
+            "Pdb/400200248b2.jpg",
+            "Pdb/400200248b21.jpg",
+            "Pdb/400200248b22.jpg",
+            "Pdb/400200248b23.jpg",
+            "Pdb/400200248b24.jpg",
+            "Pdb/400200248b3.jpg",
+            "Pdb/400200248b4.jpg",
+            "Pdb/400200248b5.jpg",
+            "Pdb/400200248b6.jpg",
+            "Pdb/400200248b7.jpg",
+            "Pdb/400200248b8.jpg",
+            "Pdb/400200248s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 16999,
+        "item_salePrice": 16999,
+        "item_bonus": 510
+    },
+    {
+        "productId": "400200817",
+        "name": "Планшет Xiaomi Redmi Pad SE 4/128GB Green (49271)",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-4-128gb-green-49271",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400200817",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad SE 4/128GB Green (49271)",
+        "rating": {
+            "star": 5,
+            "count": 45,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400200817b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400200817.jpg",
+            "Pdb/400200817b.jpg",
+            "Pdb/400200817b1.jpg",
+            "Pdb/400200817b2.jpg",
+            "Pdb/400200817b21.jpg",
+            "Pdb/400200817b22.jpg",
+            "Pdb/400200817b23.jpg",
+            "Pdb/400200817b24.jpg",
+            "Pdb/400200817b3.jpg",
+            "Pdb/400200817b4.jpg",
+            "Pdb/400200817b5.jpg",
+            "Pdb/400200817b6.jpg",
+            "Pdb/400200817b7.jpg",
+            "Pdb/400200817b8.jpg",
+            "Pdb/400200817s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 16999,
+        "item_salePrice": 16999,
+        "item_bonus": 510
+    },
+    {
+        "productId": "400200822",
+        "name": "Планшет Xiaomi Redmi Pad SE 4/128GB Purple (49261)",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-4-128gb-purple-49261",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400200822",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad SE 4/128GB Purple (49261)",
+        "rating": {
+            "star": 5,
+            "count": 46,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400200822b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400200822.jpg",
+            "Pdb/400200822b.jpg",
+            "Pdb/400200822b1.jpg",
+            "Pdb/400200822b2.jpg",
+            "Pdb/400200822b21.jpg",
+            "Pdb/400200822b22.jpg",
+            "Pdb/400200822b23.jpg",
+            "Pdb/400200822b24.jpg",
+            "Pdb/400200822b3.jpg",
+            "Pdb/400200822b4.jpg",
+            "Pdb/400200822b5.jpg",
+            "Pdb/400200822b6.jpg",
+            "Pdb/400200822s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 16999,
+        "item_salePrice": 16999,
+        "item_bonus": 510
+    },
+    {
+        "productId": "400165294",
+        "name": "Планшет Xiaomi Pad 6 (47786) Gravity Gray",
+        "nameTranslit": "planshet-xiaomi-pad-6-47786-gravity-gray",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400165294",
+        "materialSource": "ERP",
+        "modelName": "Pad 6 (47786) Gravity Gray",
+        "rating": {
+            "star": 4.886363636363637,
+            "count": 44,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400165294b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400165294.jpg",
+            "Pdb/400165294b.jpg",
+            "Pdb/400165294b1.jpg",
+            "Pdb/400165294b2.jpg",
+            "Pdb/400165294b3.jpg",
+            "Pdb/400165294b4.jpg",
+            "Pdb/400165294b5.jpg",
+            "Pdb/400165294b6.jpg",
+            "Pdb/400165294s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/2880x1800 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 39999,
+        "item_salePrice": 34999,
+        "item_bonus": 1050
+    },
+    {
+        "productId": "400199781",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Graphite Gray",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-graphite-gray",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400199781",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad SE 6/128GB Graphite Gray",
+        "rating": {
+            "star": 4.956521739130435,
+            "count": 46,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400199781b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400199781.jpg",
+            "Pdb/400199781b.jpg",
+            "Pdb/400199781b1.jpg",
+            "Pdb/400199781b10.jpg",
+            "Pdb/400199781b2.jpg",
+            "Pdb/400199781b3.jpg",
+            "Pdb/400199781b4.jpg",
+            "Pdb/400199781b5.jpg",
+            "Pdb/400199781b6.jpg",
+            "Pdb/400199781b8.jpg",
+            "Pdb/400199781b9.jpg",
+            "Pdb/400199781s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1920x1200 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 20999,
+        "item_salePrice": 19999,
+        "item_bonus": 600
+    },
+    {
+        "productId": "400165295",
+        "name": "Планшет Xiaomi Pad 6 (47846) Mist Blue",
+        "nameTranslit": "planshet-xiaomi-pad-6-47846-mist-blue",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400165295",
+        "materialSource": "ERP",
+        "modelName": "Pad 6 (47846) Mist Blue",
+        "rating": {
+            "star": 4.647058823529412,
+            "count": 17,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400165295b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400165295.jpg",
+            "Pdb/400165295b.jpg",
+            "Pdb/400165295b1.jpg",
+            "Pdb/400165295b2.jpg",
+            "Pdb/400165295b3.jpg",
+            "Pdb/400165295b4.jpg",
+            "Pdb/400165295b5.jpg",
+            "Pdb/400165295b6.jpg",
+            "Pdb/400165295s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/2880x1800 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 39999,
+        "item_salePrice": 34999,
+        "item_bonus": 1050
+    },
+    {
+        "productId": "400199779",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Lavender Purple",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-lavender-purple",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400199779",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad SE 6/128GB Lavender Purple",
+        "rating": {
+            "star": 5,
+            "count": 39,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400199779b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400199779.jpg",
+            "Pdb/400199779b.jpg",
+            "Pdb/400199779b1.jpg",
+            "Pdb/400199779b2.jpg",
+            "Pdb/400199779b3.jpg",
+            "Pdb/400199779b4.jpg",
+            "Pdb/400199779b5.jpg",
+            "Pdb/400199779s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1920x1200 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 20999,
+        "item_salePrice": 19999,
+        "item_bonus": 600
+    },
+    {
+        "productId": "400254529",
+        "name": "Планшет Xiaomi Redmi Pad SE 8+256GB Graphite Gray",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-8256gb-graphite-gray",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400254529",
+        "materialSource": "ERP",
+        "modelName": "Pad SE 8+256GB Graphite Gray",
+        "rating": {
+            "star": 4.833333333333333,
+            "count": 6,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400254529b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400254529.jpg",
+            "Pdb/400254529b.jpg",
+            "Pdb/400254529b1.jpg",
+            "Pdb/400254529b10.jpg",
+            "Pdb/400254529b2.jpg",
+            "Pdb/400254529b3.jpg",
+            "Pdb/400254529b4.jpg",
+            "Pdb/400254529b5.jpg",
+            "Pdb/400254529b6.jpg",
+            "Pdb/400254529b7.jpg",
+            "Pdb/400254529b8.jpg",
+            "Pdb/400254529b9.jpg",
+            "Pdb/400254529s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1920x1200 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "256",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "8",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 24999,
+        "item_salePrice": 23999,
+        "item_bonus": 720
+    },
+    {
+        "productId": "400199761",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Mint Green",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-mint-green",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400199761",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad SE 6/128GB Mint Green",
+        "rating": {
+            "star": 4.9523809523809526,
+            "count": 42,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400199761b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400199761.jpg",
+            "Pdb/400199761b.jpg",
+            "Pdb/400199761b1.jpg",
+            "Pdb/400199761b2.jpg",
+            "Pdb/400199761b21.jpg",
+            "Pdb/400199761b22.jpg",
+            "Pdb/400199761b23.jpg",
+            "Pdb/400199761b24.jpg",
+            "Pdb/400199761b3.jpg",
+            "Pdb/400199761s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1920x1200 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 20999,
+        "item_salePrice": 19999,
+        "item_bonus": 600
+    },
+    {
+        "productId": "30066075",
+        "name": "Планшет Xiaomi Redmi Pad 4/128GB Graphite Gray",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-4-128gb-graphite-gray",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30066075",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad 4/128GB Graphite Gray",
+        "rating": {
+            "star": 4.916666666666667,
+            "count": 36,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/30066075b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": true,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30066075.jpg",
+            "Pdb/30066075b.jpg",
+            "Pdb/30066075b1.jpg",
+            "Pdb/30066075b2.jpg",
+            "Pdb/30066075b3.jpg",
+            "Pdb/30066075b4.jpg",
+            "Pdb/30066075b5.jpg",
+            "Pdb/30066075b6.jpg",
+            "Pdb/30066075b7.jpg",
+            "Pdb/30066075b8.jpg",
+            "Pdb/30066075b9.jpg",
+            "Pdb/30066075s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "10.61\"/1200x2000 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 19999,
+        "item_salePrice": 19999,
+        "item_bonus": 600
+    },
+    {
+        "productId": "30066077",
+        "name": "Планшет Xiaomi Redmi Pad 4/128GB Moonlight Silver",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-4-128gb-moonlight-silver",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30066077",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad 4/128GB Moonlight Silver",
+        "rating": {
+            "star": 5,
+            "count": 30,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/30066077b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30066077.jpg",
+            "Pdb/30066077b.jpg",
+            "Pdb/30066077b1.jpg",
+            "Pdb/30066077b2.jpg",
+            "Pdb/30066077b3.jpg",
+            "Pdb/30066077b4.jpg",
+            "Pdb/30066077b5.jpg",
+            "Pdb/30066077b6.jpg",
+            "Pdb/30066077b7.jpg",
+            "Pdb/30066077b8.jpg",
+            "Pdb/30066077b9.jpg",
+            "Pdb/30066077s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "10.61\"/1200x2000 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 19999,
+        "item_salePrice": 19999,
+        "item_bonus": 600
+    },
+    {
+        "productId": "30066076",
+        "name": "Планшет Xiaomi Redmi Pad 4/128GB Mint Green",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-4-128gb-mint-green",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30066076",
+        "materialSource": "ERP",
+        "modelName": "Redmi Pad 4/128GB Mint Green",
+        "rating": {
+            "star": 4.794871794871795,
+            "count": 39,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/30066076b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30066076.jpg",
+            "Pdb/30066076b.jpg",
+            "Pdb/30066076b1.jpg",
+            "Pdb/30066076b2.jpg",
+            "Pdb/30066076b3.jpg",
+            "Pdb/30066076b4.jpg",
+            "Pdb/30066076b5.jpg",
+            "Pdb/30066076b6.jpg",
+            "Pdb/30066076b7.jpg",
+            "Pdb/30066076b8.jpg",
+            "Pdb/30066076b9.jpg",
+            "Pdb/30066076s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "10.61\"/1200x2000 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 19999,
+        "item_salePrice": 19999,
+        "item_bonus": 600
+    },
+    {
+        "productId": "400165281",
+        "name": "Планшет Xiaomi Pad 6 (47833) Champagne",
+        "nameTranslit": "planshet-xiaomi-pad-6-47833-champagne",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400165281",
+        "materialSource": "ERP",
+        "modelName": "Pad 6 (47833) Champagne",
+        "rating": {
+            "star": 5,
+            "count": 16,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400165281b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400165281.jpg",
+            "Pdb/400165281b.jpg",
+            "Pdb/400165281b1.jpg",
+            "Pdb/400165281b2.jpg",
+            "Pdb/400165281b3.jpg",
+            "Pdb/400165281b4.jpg",
+            "Pdb/400165281b5.jpg",
+            "Pdb/400165281b6.jpg",
+            "Pdb/400165281s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/2880x1800 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 39999,
+        "item_salePrice": 34999,
+        "item_bonus": 1050
+    },
+    {
+        "productId": "400254539",
+        "name": "Планшет Xiaomi Redmi Pad SE 8+256GB Mint Green",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-8256gb-mint-green",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "400254539",
+        "materialSource": "ERP",
+        "modelName": "Pad SE 8+256GB Mint Green",
+        "rating": {
+            "star": 5,
+            "count": 3,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400254539b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400254539.jpg",
+            "Pdb/400254539b.jpg",
+            "Pdb/400254539b1.jpg",
+            "Pdb/400254539b2.jpg",
+            "Pdb/400254539b3.jpg",
+            "Pdb/400254539b4.jpg",
+            "Pdb/400254539b5.jpg",
+            "Pdb/400254539b6.jpg",
+            "Pdb/400254539b7.jpg",
+            "Pdb/400254539s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1920x1200 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "256",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "8",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 24999,
+        "item_salePrice": 23999,
+        "item_bonus": 720
+    },
+    {
+        "productId": "400214288",
+        "name": "Планшет Xiaomi Pad 6 (2023) 8/256GB Blue",
+        "nameTranslit": "planshet-xiaomi-pad-6-2023-8-256gb-blue",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400214288",
+        "materialSource": "shelf",
+        "modelName": "Pad 6 (2023) 8/256GB Blue",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000061907",
+            "name": "ИП Очередько Денис Леонидович",
+            "address": "366108, Шелковской район р-н., ст-ца Шелковская, Мажатова, д. 1Б, кв. 36",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "323265100081162",
+            "inn": "261019095019",
+            "phone": "+79887569487"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400214288b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400214288.jpg",
+            "Pdb/400214288b.jpg",
+            "Pdb/400214288b1.jpg",
+            "Pdb/400214288b2.jpg",
+            "Pdb/400214288b3.jpg",
+            "Pdb/400214288s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1800x2880 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "256",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "8",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 47990,
+        "item_salePrice": 47990,
+        "item_bonus": 1440
+    },
+    {
+        "productId": "400214316",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Gray",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-gray",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400214316",
+        "materialSource": "shelf",
+        "modelName": "Redmi Pad SE 6/128GB Gray",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000058370",
+            "name": "ИП Бирюзова Анастасия Владимировна",
+            "address": "366108, ст-ца Шелковская, Мажатова, д. 1, к.Б, кв.31",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "322265100067311",
+            "inn": "772626329504",
+            "phone": "+79881012319"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400214316b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400214316.jpg",
+            "Pdb/400214316b.jpg",
+            "Pdb/400214316b1.jpg",
+            "Pdb/400214316b2.jpg",
+            "Pdb/400214316b3.jpg",
+            "Pdb/400214316s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 20990,
+        "item_salePrice": 20990,
+        "item_bonus": 630
+    },
+    {
+        "productId": "400214286",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Lavender",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-lavender",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400214286",
+        "materialSource": "shelf",
+        "modelName": "Redmi Pad SE 6/128GB Lavender",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000061907",
+            "name": "ИП Очередько Денис Леонидович",
+            "address": "366108, Шелковской район р-н., ст-ца Шелковская, Мажатова, д. 1Б, кв. 36",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "323265100081162",
+            "inn": "261019095019",
+            "phone": "+79887569487"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400214286b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400214286.jpg",
+            "Pdb/400214286b.jpg",
+            "Pdb/400214286b1.jpg",
+            "Pdb/400214286b2.jpg",
+            "Pdb/400214286b3.jpg",
+            "Pdb/400214286s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 20990,
+        "item_salePrice": 20990,
+        "item_bonus": 630
+    },
+    {
+        "productId": "400214326",
+        "name": "Планшет Xiaomi Pad 6 (2023) 6/128GB Blue",
+        "nameTranslit": "planshet-xiaomi-pad-6-2023-6-128gb-blue",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400214326",
+        "materialSource": "shelf",
+        "modelName": "Pad 6 (2023) 6/128GB Blue",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000058370",
+            "name": "ИП Бирюзова Анастасия Владимировна",
+            "address": "366108, ст-ца Шелковская, Мажатова, д. 1, к.Б, кв.31",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "322265100067311",
+            "inn": "772626329504",
+            "phone": "+79881012319"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400214326b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": true,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400214326.jpg",
+            "Pdb/400214326b.jpg",
+            "Pdb/400214326b1.jpg",
+            "Pdb/400214326b2.jpg",
+            "Pdb/400214326b3.jpg",
+            "Pdb/400214326s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1800x2880 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 40990,
+        "item_salePrice": 40990,
+        "item_bonus": 1230
+    },
+    {
+        "productId": "400231032",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Lavander",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-lavander",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400231032",
+        "materialSource": "shelf",
+        "modelName": "Redmi Pad SE 6/128GB Lavander",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000062539",
+            "name": "ИП Сушко Алексей Анатольевич",
+            "address": "359130, п. Хомутников, Центральная, 21, 4",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "321265100073267",
+            "inn": "260807050532",
+            "phone": "+79881097995"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400231032b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": true,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400231032.jpg",
+            "Pdb/400231032b.jpg",
+            "Pdb/400231032b1.jpg",
+            "Pdb/400231032b2.jpg",
+            "Pdb/400231032b3.jpg",
+            "Pdb/400231032s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 20990,
+        "item_salePrice": 20990,
+        "item_bonus": 630
+    },
+    {
+        "productId": "4205440",
+        "name": "Планшет Xiaomi Mi LCD Writing Tablet 13.5'' (BHR4245GL)",
+        "nameTranslit": "planshet-xiaomi-mi-lcd-writing-tablet-135-bhr4245gl",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "4205440",
+        "materialSource": "shelf",
+        "modelName": "Mi LCD Writing Tablet 13.5'' (BHR4245GL)",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000022241",
+            "name": "ООО \"Эдил-Импорт\"",
+            "address": "140125, село Михайловская Слобода, Промышленная улица, 1к1",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "1037739972533",
+            "inn": "7733510051",
+            "phone": "+74957250408"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": true,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/4205440b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/4205440.jpg",
+            "Pdb/4205440b.jpg",
+            "Pdb/4205440b1.jpg",
+            "Pdb/4205440b2.jpg",
+            "Pdb/4205440b3.jpg",
+            "Pdb/4205440b4.jpg",
+            "Pdb/4205440b5.jpg",
+            "Pdb/4205440b6.jpg",
+            "Pdb/4205440b7.jpg",
+            "Pdb/4205440b8.jpg",
+            "Pdb/4205440b9.jpg",
+            "Pdb/4205440s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 2130,
+        "item_salePrice": 2130,
+        "item_bonus": 64
+    },
+    {
+        "productId": "400214390",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Green",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-green",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400214390",
+        "materialSource": "shelf",
+        "modelName": "Redmi Pad SE 6/128GB Green",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000056355",
+            "name": "ИП Бирюзов Евгений Анатольевич",
+            "address": "366108, ст-ца Шелковская, ул. Мажатова, д. 1, к. Б",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "314265108500429",
+            "inn": "260707399136",
+            "phone": "+79197565299"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400214390b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": true,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400214390.jpg",
+            "Pdb/400214390b.jpg",
+            "Pdb/400214390b1.jpg",
+            "Pdb/400214390b2.jpg",
+            "Pdb/400214390b3.jpg",
+            "Pdb/400214390s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 22790,
+        "item_salePrice": 22790,
+        "item_bonus": 684
+    },
+    {
+        "productId": "400214324",
+        "name": "Планшет Xiaomi Pad 6 (2023) 6/128GB Gold",
+        "nameTranslit": "planshet-xiaomi-pad-6-2023-6-128gb-gold",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400214324",
+        "materialSource": "shelf",
+        "modelName": "Pad 6 (2023) 6/128GB Gold",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000058370",
+            "name": "ИП Бирюзова Анастасия Владимировна",
+            "address": "366108, ст-ца Шелковская, Мажатова, д. 1, к.Б, кв.31",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "322265100067311",
+            "inn": "772626329504",
+            "phone": "+79881012319"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400214324b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400214324.jpg",
+            "Pdb/400214324b.jpg",
+            "Pdb/400214324b1.jpg",
+            "Pdb/400214324b2.jpg",
+            "Pdb/400214324b3.jpg",
+            "Pdb/400214324s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1800x2880 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 40990,
+        "item_salePrice": 40990,
+        "item_bonus": 1230
+    },
+    {
+        "productId": "400214329",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Lavender",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-lavender",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400214329",
+        "materialSource": "shelf",
+        "modelName": "Redmi Pad SE 6/128GB Lavender",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000058370",
+            "name": "ИП Бирюзова Анастасия Владимировна",
+            "address": "366108, ст-ца Шелковская, Мажатова, д. 1, к.Б, кв.31",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "322265100067311",
+            "inn": "772626329504",
+            "phone": "+79881012319"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400214329b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400214329.jpg",
+            "Pdb/400214329b.jpg",
+            "Pdb/400214329b1.jpg",
+            "Pdb/400214329b2.jpg",
+            "Pdb/400214329b3.jpg",
+            "Pdb/400214329s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 20990,
+        "item_salePrice": 20990,
+        "item_bonus": 630
+    },
+    {
+        "productId": "400214314",
+        "name": "Планшет Xiaomi Redmi Pad SE 6/128GB Green",
+        "nameTranslit": "planshet-xiaomi-redmi-pad-se-6-128gb-green",
+        "productType": "ZCON",
+        "usedProductType": null,
+        "materialCisNumber": "400214314",
+        "materialSource": "shelf",
+        "modelName": "Redmi Pad SE 6/128GB Green",
+        "rating": {
+            "star": null,
+            "count": null,
+            "percent": null
+        },
+        "supplier": {
+            "id": "K000058370",
+            "name": "ИП Бирюзова Анастасия Владимировна",
+            "address": "366108, ст-ца Шелковская, Мажатова, д. 1, к.Б, кв.31",
+            "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+            "ogrn": "322265100067311",
+            "inn": "772626329504",
+            "phone": "+79881012319"
+        },
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "saleLegal": false,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "isPreorder": false,
+        "image": "Pdb/small_pic/480/400214314b.jpg",
+        "brandId": "1083",
+        "brandName": "Xiaomi",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/400214314.jpg",
+            "Pdb/400214314b.jpg",
+            "Pdb/400214314b1.jpg",
+            "Pdb/400214314b2.jpg",
+            "Pdb/400214314b3.jpg",
+            "Pdb/400214314s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 5552,
+                "name": "Гарантия",
+                "value": "1 год",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "11\"/1200x1920 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 2,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 20990,
+        "item_salePrice": 20990,
+        "item_bonus": 630
+    }
+]
